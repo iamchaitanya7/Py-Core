@@ -11,3 +11,5 @@ def main():
     print("Addition is : ", ans)
 if __name__ == "__main__":
     main()
+
+#demonstration of addition of two number using function
